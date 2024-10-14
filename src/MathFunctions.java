@@ -3,6 +3,7 @@ public class MathFunctions {
     private static double E;
 
 
+
     public MathFunctions(double p,double e){
         PI = p;
         E = e;
